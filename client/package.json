@@ -1,7 +1,10 @@
 {
-  "name": "client",
+  "name": "chicadora",
+  "description": "Chicadora de plásticos",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
+  "author": "ryu",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
